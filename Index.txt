@@ -1,5 +1,4 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \Change Output Page Width
 \Get Page Width And Height
