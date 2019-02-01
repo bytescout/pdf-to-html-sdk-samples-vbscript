@@ -1,6 +1,6 @@
 ## Index of source code examples:
 
-\Change pdf to html Output Page Width
-\convert PDF To HTML (simple layout)
-\convert PDF To HTML (with layout)
-\Get pdf Page Width And Height
+\Change PDF To HTML Output Page Width
+\Convert PDF To HTML (Complex Layout)
+\Convert PDF To HTML (Simple Layout)
+\Get PDF Page Width And Height
